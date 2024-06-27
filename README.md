@@ -7,9 +7,10 @@
  use html , css And bootstrap to create frontend pages and javascript with node.js for backend coding and we use mysql for database.
  <br>
  Function and Features 
-	User Registration: Allow users and admin to create accounts.
+ <br>
+User Registration: Allow users and admin to create accounts.
 Search: Allow user to search their destinations 
-Booking: Display detailed information about available options, including prices    amenities, and reviews.
+Booking: Display detailed information about available options, including prices amenities, and reviews.
 Weather integration: our website allow user to check weather before booking.
 Upload images: Enable admin to upload photos of previous trips.
 Contact: it also allows user to contact with admin when they facing any issue.
